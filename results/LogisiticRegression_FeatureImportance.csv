@@ -1,0 +1,30 @@
+,Method,Feature,Feature Coefficient
+0,LogisticRegression,DG_neurological,1.0288338178552303
+1,LogisticRegression,DG_musculoskeletal_trauma,0.501635658642876
+2,LogisticRegression,DG_other_systemic,0.45006590139227604
+3,LogisticRegression,CC_systemic_infectious,0.3003061347547425
+4,LogisticRegression,DG_infectious,0.29495251270353695
+5,LogisticRegression,DG_genitourinary,0.08008216848182118
+6,LogisticRegression,KTAS duration_min,0.021078993793619268
+7,LogisticRegression,HR,0.010925587330201311
+8,LogisticRegression,RR,0.008099262186266132
+9,LogisticRegression,Age,0.0043907363597303645
+10,LogisticRegression,DBP,0.0028518162934295073
+11,LogisticRegression,BT,0.0012745275415898258
+12,LogisticRegression,Length of stay_min,3.5381607268929714e-05
+13,LogisticRegression,KTAS_RN_5,0.0
+14,LogisticRegression,DG_other,0.0
+15,LogisticRegression,CC_pain_trauma,0.0
+16,LogisticRegression,SBP,-0.005503154602830024
+17,LogisticRegression,CC_cardiovascular,-0.025642550925025053
+18,LogisticRegression,DG_gastrointestinal,-0.11365368124686744
+19,LogisticRegression,DG_respiratory,-0.2298206115761102
+20,LogisticRegression,CC_respiratory,-0.25302845932604034
+21,LogisticRegression,CC_gastrointestinal,-0.3088548537973243
+22,LogisticRegression,DG_cardiovascular,-0.3138340123331523
+23,LogisticRegression,CC_other,-0.6448776027616849
+24,LogisticRegression,CC_neurological,-0.6831711085031649
+25,LogisticRegression,KTAS_RN_4,-0.706277463134885
+26,LogisticRegression,Injury_2,-0.7346837150622137
+27,LogisticRegression,KTAS_RN_2,-1.21582368894234
+28,LogisticRegression,KTAS_RN_3,-1.2175636414005677
